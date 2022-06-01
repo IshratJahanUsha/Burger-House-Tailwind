@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('images/homeBg.png');
+  background-repeat: no-repeat;
+  /* background-size: 1400px; */
+  background-position: 90% -1%;
+}
+
+#chef {
+  background-image: url('images/chefBg.png');
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
+#big {
+  background-image: url('images/bigBurgerBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.circle {
+  background-image: url('images/statisticsShape.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#popularPackage{
+  background-image: url('images/packageBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#berryComment{
+  background-image: url('images/barryHendersonBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#ourUpdate{
+  background-image: url('images/ourUpdateBg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
